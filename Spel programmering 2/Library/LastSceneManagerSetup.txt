@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/spel2.unity
+  isLoaded: 1
+  isActive: 1
